@@ -4,3 +4,4 @@
 
 ![Profile Statistics](https://github-readme-stats.vercel.app/api?username=findscode&theme=dark&show_icons=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findscode)](https://github.com/findscode/github-readme-stats)
